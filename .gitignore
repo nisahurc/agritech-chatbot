@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# python
+venv/
+backend/venv/
+
+# models
+*.safetensors
+*.dll
+
+# env
+.env
